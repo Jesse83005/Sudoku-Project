@@ -18,4 +18,3 @@ class Board:
             for j in i:
                 new.append(Cell(j))
             self.create.append(new)
-
